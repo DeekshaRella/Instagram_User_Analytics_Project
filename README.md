@@ -1,6 +1,6 @@
 A look at how Instagram uses data to analyse trends and provide better results.
 
-Task Description
+Project Description
 
 This project is about the users who are on Instagram and extracting the insights that are then used by teams throughout the business to launch a new marketing campaign, choose which features to build for an app, track the success of the app by measuring user engagement, and improve the overall experience while aiding in business growth. It provides a brief overview of Instagram users' behaviour and population density.
 
